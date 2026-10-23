@@ -12,7 +12,7 @@ public:
 
             if(prime[i]==1){
                 for(int j=i*i; j<=n; j+=i){
-                    prime[i]=0;
+                    prime[j]=0;
                 }
             }
         }
