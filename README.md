@@ -15,4 +15,12 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/kunalvoid/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kunalvoid/LeetCode/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/kunalvoid/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
