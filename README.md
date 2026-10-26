@@ -7,6 +7,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/kunalvoid/LeetCode/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/kunalvoid/LeetCode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -23,4 +24,16 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/kunalvoid/LeetCode/tree/master/0796-rotate-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kunalvoid/LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kunalvoid/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kunalvoid/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
