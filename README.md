@@ -19,6 +19,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kunalvoid/LeetCode/tree/master/0125-valid-palindrome) |
 | [0796-rotate-string](https://github.com/kunalvoid/LeetCode/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -36,4 +37,8 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kunalvoid/LeetCode/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/kunalvoid/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
