@@ -12,6 +12,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kunalvoid/LeetCode/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/kunalvoid/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -58,4 +59,12 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/kunalvoid/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kunalvoid/LeetCode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kunalvoid/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
