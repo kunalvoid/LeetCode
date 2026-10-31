@@ -6,6 +6,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kunalvoid/LeetCode/tree/master/0050-powx-n) |
 | [0507-perfect-number](https://github.com/kunalvoid/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kunalvoid/LeetCode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/kunalvoid/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -37,6 +38,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kunalvoid/LeetCode/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/kunalvoid/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
