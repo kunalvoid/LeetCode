@@ -7,12 +7,14 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kunalvoid/LeetCode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/kunalvoid/LeetCode/tree/master/0189-rotate-array) |
 | [0507-perfect-number](https://github.com/kunalvoid/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kunalvoid/LeetCode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/kunalvoid/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/kunalvoid/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kunalvoid/LeetCode/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/kunalvoid/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -49,6 +51,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 | ------- |
 | [0125-valid-palindrome](https://github.com/kunalvoid/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kunalvoid/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/kunalvoid/LeetCode/tree/master/0189-rotate-array) |
 ## Stack
 |  |
 | ------- |
