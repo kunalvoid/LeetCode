@@ -14,6 +14,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kunalvoid/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/kunalvoid/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kunalvoid/LeetCode/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/kunalvoid/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -24,6 +25,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kunalvoid/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/kunalvoid/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kunalvoid/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kunalvoid/LeetCode/tree/master/0242-valid-anagram) |
@@ -75,4 +77,8 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 | ------- |
 | [0217-contains-duplicate](https://github.com/kunalvoid/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kunalvoid/LeetCode/tree/master/0242-valid-anagram) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kunalvoid/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
