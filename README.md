@@ -16,6 +16,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kunalvoid/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/kunalvoid/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/kunalvoid/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/kunalvoid/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kunalvoid/LeetCode/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/kunalvoid/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -54,6 +55,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/kunalvoid/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/kunalvoid/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kunalvoid/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kunalvoid/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/kunalvoid/LeetCode/tree/master/0189-rotate-array) |
@@ -77,10 +79,19 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/kunalvoid/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/kunalvoid/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kunalvoid/LeetCode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kunalvoid/LeetCode/tree/master/0014-longest-common-prefix) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kunalvoid/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/kunalvoid/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
