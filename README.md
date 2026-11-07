@@ -8,6 +8,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 | ------- |
 | [0050-powx-n](https://github.com/kunalvoid/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/kunalvoid/LeetCode/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/kunalvoid/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/kunalvoid/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kunalvoid/LeetCode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/kunalvoid/LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -32,6 +33,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 | [0125-valid-palindrome](https://github.com/kunalvoid/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kunalvoid/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kunalvoid/LeetCode/tree/master/0242-valid-anagram) |
+| [0415-add-strings](https://github.com/kunalvoid/LeetCode/tree/master/0415-add-strings) |
 | [0796-rotate-string](https://github.com/kunalvoid/LeetCode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/kunalvoid/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunalvoid/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -68,6 +70,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/kunalvoid/LeetCode/tree/master/0415-add-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kunalvoid/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Greedy
 |  |
