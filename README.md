@@ -8,6 +8,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 | ------- |
 | [0050-powx-n](https://github.com/kunalvoid/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/kunalvoid/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/kunalvoid/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/kunalvoid/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/kunalvoid/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kunalvoid/LeetCode/tree/master/0509-fibonacci-number) |
@@ -22,6 +23,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 | [0088-merge-sorted-array](https://github.com/kunalvoid/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/kunalvoid/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/kunalvoid/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kunalvoid/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kunalvoid/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kunalvoid/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/kunalvoid/LeetCode/tree/master/0912-sort-an-array) |
@@ -87,6 +89,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 | ------- |
 | [0217-contains-duplicate](https://github.com/kunalvoid/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kunalvoid/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kunalvoid/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +97,7 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 | [0088-merge-sorted-array](https://github.com/kunalvoid/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/kunalvoid/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kunalvoid/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/kunalvoid/LeetCode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/kunalvoid/LeetCode/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
@@ -131,4 +135,12 @@ My LeetCode solutions in C++, to track my progress in Data Structures and Algori
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kunalvoid/LeetCode/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kunalvoid/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kunalvoid/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
